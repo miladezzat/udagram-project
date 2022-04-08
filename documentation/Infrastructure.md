@@ -31,7 +31,7 @@ this service is for deploying a server and creating an enviroment to run our app
 
 #### Application Link
 
-http://dazy-bucket.s3-website-us-east-1.amazonaws.com/
+http://udagramend.s3-website-us-east-1.amazonaws.com
 
 #### Diagram for the AWS data flow in our application
 
