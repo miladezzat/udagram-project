@@ -8,8 +8,8 @@ this service is for creating some database to use it in our deployed app
 
 ### ScreenShot for the RDS configuration
 
-![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/RDS.jpg?raw=true)
-![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/RDS2.jpg?raw=true)
+![alt text](/images/RDS.png?raw=true)
+![alt text](/images/RDS2.png?raw=true)
 
 ## Aws S3
 
@@ -17,8 +17,8 @@ this service is for creating a bucket to upload the static files and the front e
 
 ### ScreenShot for the S3 configuration
 
-![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/S3.jpg?raw=true)
-![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/S32.jpg?raw=true)
+![alt text](/images/S3.png?raw=true)
+![alt text](/images/S32.png?raw=true)
 
 ## AWS eb
 
@@ -26,7 +26,7 @@ this service is for deploying a server and creating an enviroment to run our app
 
 ### ScreenShot for the eb configuration properties and console env
 
-![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/EB.jpg?raw=true)
+![alt text](/images/EB.png?raw=true)
 ![alt text](/images/credentials.png?raw=true)
 
 #### Application Link
