@@ -8,7 +8,7 @@ environment-defaults:
     branch: null
     repository: null
 global:
-  application_name: udagram-api
+  application_name: udagram-apis
   branch: null
   default_ec2_keyname: null
   default_platform: Node.js

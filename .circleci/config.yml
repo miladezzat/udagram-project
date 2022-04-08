@@ -36,6 +36,10 @@ jobs:
           name: Deploy App backend
           command: |
             npm run backend:deploy
+      - run:
+          name: Test backend
+          command: |
+            npm run backend:test
 workflows:
   build_and_deploy:
     jobs:
@@ -44,4 +48,3 @@ workflows:
             branches:
               only:
                 - master
-                - main
