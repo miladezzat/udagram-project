@@ -27,7 +27,7 @@ this service is for deploying a server and creating an enviroment to run our app
 ### ScreenShot for the eb configuration properties and console env
 
 ![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/EB.jpg?raw=true)
-![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/credentials.jpg?raw=true)
+![alt text](/images/credentials.png?raw=true)
 
 #### Application Link
 
