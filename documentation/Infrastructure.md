@@ -35,4 +35,4 @@ http://udagramend.s3-website-us-east-1.amazonaws.com
 
 #### Diagram for the AWS data flow in our application
 
-![alt text](https://github.com/david-wagih/DeploymentProject/blob/master/images/awsDataFlow.png?raw=true)
+![alt text](/images/awsDataFlow.png?raw=true)
